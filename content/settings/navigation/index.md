@@ -6,12 +6,8 @@ title = "Home"
 url = "/"
 
 [[link]]
-title = "About me"
-url = "/about/"
-
-[[link]]
-title = "Warum"
-url = "/warum"
+title = "Wieso weshalb warum"
+url = "/wiesoweshalbwarum/"
 
 [[link]]
 title = "Wortschatz"

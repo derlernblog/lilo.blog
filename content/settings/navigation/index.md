@@ -8,5 +8,12 @@ url = "/"
 [[link]]
 title = "About me"
 url = "/about/"
-+++
 
+[[link]]
+title = "Warum"
+url = "/warum/"
+
+[[link]]
+title = "Wofür"
+url = "/wofür/"
++++

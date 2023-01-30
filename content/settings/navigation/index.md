@@ -11,9 +11,9 @@ url = "/about/"
 
 [[link]]
 title = "Warum"
-url = "/warum/"
+url = "/warum"
 
 [[link]]
 title = "Wortschatz"
-url = "/wortschatz/"
+url = "/wortschatz"
 +++

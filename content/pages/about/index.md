@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "Wieso weshalb warum"
 draft = false
 image = ""
 description = ""

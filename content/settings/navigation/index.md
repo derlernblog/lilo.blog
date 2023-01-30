@@ -14,6 +14,6 @@ title = "Warum"
 url = "/warum/"
 
 [[link]]
-title = "Wofür"
-url = "/wofür/"
+title = "Wortschatz"
+url = "/wortschatz/"
 +++

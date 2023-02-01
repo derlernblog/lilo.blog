@@ -2,14 +2,18 @@
 headless = true
 
 [[link]]
-title = "Home"
+title = "Startseite"
 url = "/"
 
 [[link]]
-title = "Wieso weshalb warum"
-url = "/wiesoweshalbwarum"
+title = "Lehrreiches"
+url = "/lehrreiches"
 
 [[link]]
 title = "Wortschatz"
 url = "/wortschatz"
+
+[[link]]
+title = "HGF (FAQ) & Kontakt"
+url = "/hgffaq"
 +++

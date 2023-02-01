@@ -1,7 +1,7 @@
 +++
-title = "Wissenswertes"
+title = "Lehrreiches"
 draft = false
 image = "muf001056.jpg"
-description = "Wissenswertes"
+description = "Lehrreiches"
 +++
-Wissenswertes
+Lehrreiches

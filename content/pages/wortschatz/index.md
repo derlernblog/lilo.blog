@@ -1,7 +1,7 @@
 +++
-title = "Wortschatz"
+title = "Wissenswertes"
 draft = false
 image = "muf001056.jpg"
-description = "Wortschatz"
+description = "Wissenswertes"
 +++
-Wortschatz
+Wissenswertes

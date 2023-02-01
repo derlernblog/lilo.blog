@@ -7,7 +7,7 @@ url = "/"
 
 [[link]]
 title = "Wieso weshalb warum"
-url = "/wiesoweshalbwarum/"
+url = "/wiesoweshalbwarum"
 
 [[link]]
 title = "Wortschatz"

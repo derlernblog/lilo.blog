@@ -1,10 +1,10 @@
 +++
-title = "Wieso weshalb warum"
+title = "Startseite"
 draft = true
 image = ""
 description = ""
 +++
-![](ebbf04282.jpg)
+![]()
 
 ```
 

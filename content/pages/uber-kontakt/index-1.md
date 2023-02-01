@@ -1,5 +1,5 @@
 +++
-title = "Wortschat"
+title = "Wortschatz"
 draft = false
 description = "Wortschatz"
 +++

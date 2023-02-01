@@ -14,6 +14,6 @@ title = "Wortschatz"
 url = "/wortschatz"
 
 [[link]]
-title = "HGF (FAQ) & Kontakt"
-url = "/hgffaq"
+title = "Über & Kontakt"
+url = "/über"
 +++

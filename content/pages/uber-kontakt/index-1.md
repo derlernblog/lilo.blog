@@ -1,6 +1,6 @@
 +++
-title = "Über & Kontakt"
+title = "Wortschat"
 draft = false
-description = "Über & Kontakt"
+description = "Wortschatz"
 +++
-Über & Kontakt
+Wortschatz
